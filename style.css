@@ -1,5 +1,5 @@
 body {
-    background-color: #861a22;
+    background-color: #9B111E; /* Vermelho Ruby */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,4 +23,3 @@ body {
 .cute-text:hover {
     transform: scale(1.1);
 }
-

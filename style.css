@@ -9,12 +9,12 @@ body {
 }
 
 .cute-text {
-    background-color: #ffebcd;
-    border: 5px solid #ffc0cb;
+    background-color: #cf1717;
+    border: 5px solid #610212;
     border-radius: 15px;
     padding: 20px;
     font-size: 2em;
-    color: #ff69b4;
+    color: #ffc2e0;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
